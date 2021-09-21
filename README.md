@@ -6,10 +6,10 @@ Docker is a container technology and used for scaling applications.
 We will be using this project App directory --
 The details of directory are below.
 App/
-  --requirements.txt
-  --Dockerfile
-  --AppPython/
-    --requirements.txt
-    --
-  --AppMySQL/
-    --cust_data.dump  		
+  --requirements.txt</br>
+  --Dockerfile</br>
+  --AppPython/</br>
+    --requirements.txt</br>
+    --</br>
+  --AppMySQL/</br>
+    --cust_data.dump</br>  		
